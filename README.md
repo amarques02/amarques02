@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="helloworld1.gif/>
+  <img src="helloworld1.gif"/>
 </div>
 
 - 🔭 I’m currently working on 
