@@ -1,8 +1,18 @@
-<div id="header" align="center">
-  <img src="helloworld1.gif"/>
-</div>
+<h1>Hello world!</h1>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning C and HTML/CSS/JavaScript
-- 📫 How to reach me: antonio.neto.tm@gmail.com
-- 
+- 👀 I’m interested in Web Development!
+- 🔭 I'm studying in <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
+- 🌱 I’m currently learning C and HTML/CSS/JavaScript 
+- 📫 How to reach me antonio.neto.tm@gmail.com
+
+<div id="stats">
+  <a href="https://github.com/amarques02/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amarques02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarques02&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+<h1>Languages</h1>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="PJV-C" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img align="center" alt="PJV-HTML" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
