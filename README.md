@@ -5,14 +5,23 @@
 - 🌱 I’m currently learning C and HTML/CSS/JavaScript 
 - 📫 How to reach me antonio.neto.tm@gmail.com
 
-<div id="stats">
+<div id="GitHub stats">
   <a href="https://github.com/amarques02/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarques02&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarques02&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
-<h1>Languages</h1>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-  <img align="center" alt="PJV-HTML" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<h2> 💻 Tech Stack: </h2>
+<div style="display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
-  <p><strong>Contact me:</strong></p><a href= "https://linkedin.com/in/amarques02/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h2> 🌐 Socials: <h2>
+<div style="display: flex; flex-direction: row;">
+  <a href= "https://linkedin.com/in/amarques02/""_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"       target="_blank"></a>
+  <a href= "https://instagram.com/antonio_tm_neto""_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"      target="_blank"></a>
+</div>
