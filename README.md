@@ -10,7 +10,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarques02&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&layout=compact"/>
+ <details>
+<summary>Info about some projects I have completed at 42 Lisboa</summary>
+
+| Project                                                  |  Language  | Grade| Description                                                           |
+|----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
+| [libft](https://github.com/amarques02/42_Libft)          | C          | 100% | Create a library of basic functions.                                  |
+| [GNL](https://github.com/amarques02/42_Get_next_line)    | C          | 125% | Read a single line from a file descriptor, can be used in a loop.     |
+| [ft_printf](https://github.com/amarques02/42_Printf)     | C          | 100% | Recode the standard C library function, printf.                       |
+| born2beroot                                              | Shell, CLI | 100% | Create a virtual machine to host a Debian server.                     |
+| [minitalk](https://github.com/amarques02/42_Minitalk)    | C          | 125% | Make 2 terminals talk.                                                |
+| [push_swap](https://github.com/joao-per/42_Push_Swap)    | C          | 84%  | Sort Numbers in a stack.                                              |
+
+</details>
 
 <h2> 💻 Tech Stack: </h2>
 <div style="display: flex; flex-direction: row">
