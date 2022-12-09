@@ -20,7 +20,7 @@
 | [ft_printf](https://github.com/amarques02/42_Printf)     | C          | 100% | Recode the standard C library function, printf.                       |
 | born2beroot                                              | Shell, CLI | 100% | Create a virtual machine to host a Debian server.                     |
 | [minitalk](https://github.com/amarques02/42_Minitalk)    | C          | 125% | Make 2 terminals talk.                                                |
-| [push_swap](https://github.com/joao-per/42_Push_Swap)    | C          | 84%  | Sort Numbers in a stack.                                              |
+| [push_swap](https://github.com/amarques02/42_Push_Swap)  | C          | 84%  | Sort Numbers in a stack.                                              |
 
 </details>
 
