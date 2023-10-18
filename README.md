@@ -1,7 +1,7 @@
 <h1>Hello world!</h1>
 
 - 👀 I’m interested in Cybersecurity!
-- 🔭 I'm a student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
+- 🔭 Former student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
 - 🌱 I’m currently learning C and Networking/Cybersecurity.
 - 📫 How to reach me antonio.neto.tm@gmail.com
 
