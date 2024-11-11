@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Cybersecurity!
 - 🔭 Former student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
-- 🌱 I’m currently learning C and Networking/Cybersecurity.
+- 🌱 I’m currently working as a Network Admin/Engineer.
 - 📫 How to reach me antonio.neto.tm@gmail.com
 
 <div id="GitHub stats">
